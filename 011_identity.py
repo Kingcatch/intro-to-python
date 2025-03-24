@@ -6,7 +6,7 @@ def just_return_it(num):
   return num
 
 # This is a function. A function is a reusable block of
-# code.
+# code. 
 
 # Think of a function as a little machine. It takes an
 # input, processes it in some way, and then returns an
